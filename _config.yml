@@ -1,6 +1,6 @@
 # Site settings
-title: "now 4 something different"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Lue Boi Resume"
+description: "A resume for Lue Boi"
 
 # Build settings
 markdown: kramdown
@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Lue Boi"
 resume_title:                   "Full Stack Dev"
 resume_contact_email:           "lue@valkyriweb.com"
@@ -38,10 +38,10 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
+  # resume_github_url:            "https://github.com/jglovier/resume-template"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/luke-anthony-seeber-4ab240140/"
-   resume_instagram_url:         "https://www.instagram.com/notsoluckyluke/"
+  resume_instagram_url:         "https://www.instagram.com/notsoluckyluke/"
   resume_website_url:           "https://valkyriweb.com"
 resume_print_social_links:      true
 
